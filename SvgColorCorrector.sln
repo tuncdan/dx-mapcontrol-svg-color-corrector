@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29920.165
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DXSvgColorCorrector", "DXSvgColorCorrector.csproj", "{BBA1B603-AFDA-46F2-96BC-CE78ACED4218}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BBA1B603-AFDA-46F2-96BC-CE78ACED4218}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BBA1B603-AFDA-46F2-96BC-CE78ACED4218}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BBA1B603-AFDA-46F2-96BC-CE78ACED4218}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BBA1B603-AFDA-46F2-96BC-CE78ACED4218}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {698543C0-EF52-4E47-96FA-210E06B759E0}
+	EndGlobalSection
+EndGlobal
